@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">InstantMart</string>
+    <string name="Munchies">Munchies</string>
+    <string name="Fresh_Fruits">Fresh Fruits</string>
+    <string name="Vegetables">Vegetables</string>
+    <string name="Groceries">Groceries</string>
+    <string name="Processed_Food">Processed Food</string>
+    <string name="Beverages">Beverages</string>
+    <string name="Bath_and_Body">Bath and Body</string>
+    <string name="Breads_and_Biscuits">Breads and Biscuits</string>
+    <string name="Kitchen_Essentials">Kitchen Essentials</string>
+    <string name="Pet_Food">Pet Food</string>
+    <string name="Stationary">Stationary</string>
+    <string name="Fruits_and_vegetables">Fruits and Vegetables </string>
+
+    <string name="shimla_apple">Shimla Apple </string>
+    <string name="papaya_semi_ripe">Papaya Semi Ripe </string>
+    <string name="pomegranate">Pomegranate </string>
+    <string name="banana_robusta">Banana Robusta </string>
+    <string name="pineapple">Pineapple </string>
+    <string name="pepsi_can">Pepsi Can </string>
+
+
+
+
+
+
+</resources>

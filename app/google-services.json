@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "72485444912",
+    "project_id": "instant-mart-ffa20",
+    "storage_bucket": "instant-mart-ffa20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72485444912:android:2d7a26d00c766ee398bcf5",
+        "android_client_info": {
+          "package_name": "com.internshala.instantmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcnvpJ5-Gnd_40_caByQvUFzGMAGC-WoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
